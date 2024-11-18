@@ -73,7 +73,6 @@ Homomorphic encryption allows computations to be performed directly on encrypted
 .
 ├── homomorphic_encryption_simulation.py  # Main script
 ├── README.md                             # Project documentation
-└── requirements.txt                      # List of dependencies (optional)
 ```
 
 ---
